@@ -1,0 +1,63 @@
+body{
+    background-color: black;
+}
+
+p{
+    color: white;
+}
+
+img{
+    height: 250px;
+    width: 250px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+section{
+    display: flex;
+    gap: 15px;
+    padding-top: 100px;
+    padding-left: 20px;
+}
+
+.premier{
+    background-color: red;
+    height: 350px;
+    border-radius: 12px;
+}
+
+.deuxieme{
+    background-color: red;
+    height: 350px;
+    border-radius: 12px;
+}
+
+.troisieme{
+    background-color: red;
+    height: 350px;
+    border-radius: 12px;
+}
+
+.quatrieme{
+    background-color: red;
+    height: 350px;
+    border-radius: 12px;
+}
+
+.dernier{
+    background-color: red;
+    height: 350px;
+    border-radius: 12px;
+}
+
+p{
+    text-align: center;
+    font-weight: bolder;
+}
+
+h2{
+    color: white;
+    text-align: center;
+    font-family: "Alatsi", sans-serif;
+    font-size: 2.5em;
+}
+
